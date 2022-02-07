@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "problem_solving_with_algorithms_and_data_structures_using_python"
+version = "0.1.0"
+description = ""
+authors = ["James Drabinsky <james.drabinsky@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+ipykernel = "^6.9.0"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
